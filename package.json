@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/jbenet/issue-dep-graph#readme",
   "dependencies": {
+    "dhtmlx-gantt": "^4.0.0",
     "github-dependency-crawl": "^1.2.0",
     "minimist": "^1.2.0"
   }
